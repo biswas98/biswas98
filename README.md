@@ -1,12 +1,12 @@
 <img src="https://www.codecademy.com/resources/blog/content/images/2021/10/What-is-collaborative-coding--1.png" alt="img">
-<h1 align="center">Hi 👋, I'm Biplab Biswas</h1>
+<h1 align="center">Namaste 🙏, I'm Biplab Biswas</h1>
 <h3 align="center">Simply a coding enthusiast...</h3>
 
 
 - 📫 How to reach me **biswasbiplab98@gmail.com**
 <img align="right" src="https://cdni.iconscout.com/illustration/premium/thumb/male-developer-working-on-laptop-6021085-4993153.png" alt="img" width="400px" >
 
-- ⚡ Fun fact **tragedy of life is not death but what we let die inside us**
+- ⚡ Fun fact: **tragedy of life is not death but what we let die inside us**
 
 
 <h3 align="left">Connect with me:</h3>
