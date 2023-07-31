@@ -1,4 +1,4 @@
-<img src="https://www.codecademy.com/resources/blog/content/images/2021/10/What-is-collaborative-coding--1.png" alt="img">
+<!--<img src="https://www.codecademy.com/resources/blog/content/images/2021/10/What-is-collaborative-coding--1.png" alt="img">-->
 <h1 align="center">Namaste 🙏, I'm Biplab Biswas</h1>
 <h3 align="center">Simply a coding enthusiast...</h3>
 
